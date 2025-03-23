@@ -1,0 +1,23 @@
+{
+  "responses": {
+    "greetings": "Hello! How can I assist you with thyroid prediction today?",
+    "what is thyroid": "The thyroid is a butterfly-shaped gland in the neck that produces hormones regulating metabolism, energy, and overall body functions.",
+    "what are symptoms of thyroid": "Symptoms vary but may include fatigue, weight changes, depression, hair thinning, irregular heartbeat, and difficulty tolerating cold or heat.",
+    "how does this model work": "Our model processes your inputs using machine learning algorithms to predict whether you may have thyroid disease.",
+    "which algorithm is used": "We use Logistic Regression, Random Forest, SVM, and KNN to train the model and determine the best-performing one.",
+    "what precautions should be taken": "Precautions include maintaining a healthy diet, managing stress, avoiding excessive iodine intake, and consulting a doctor regularly.",
+    "what are the thyroid levels": "Thyroid levels are usually measured through TSH, T3, and T4 hormone levels. The common categories are:\n- **Normal:** TSH (0.4 - 4.0 mIU/L)\n- **Hypothyroidism (Underactive Thyroid):** TSH > 4.5 mIU/L\n- **Hyperthyroidism (Overactive Thyroid):** TSH < 0.4 mIU/L",
+    "what is hypothyroidism": "Hypothyroidism occurs when the thyroid gland does not produce enough hormones, leading to symptoms like fatigue, weight gain, and cold sensitivity.",
+    "what is hyperthyroidism": "Hyperthyroidism happens when the thyroid gland produces too many hormones, causing symptoms like rapid heartbeat, weight loss, and nervousness.",
+    "positive": "Based on your inputs, there is a possibility of thyroid disorder. Please consult a doctor for further analysis.",
+    "negative": "Your inputs suggest no thyroid disorder. However, consulting a medical professional for a full diagnosis is always a good idea.",
+    "precautions hypothyroidism": "For hypothyroidism, maintain a balanced diet rich in iodine, selenium, and zinc. Take prescribed medications regularly and avoid excessive soy intake.",
+    "precautions hyperthyroidism": "For hyperthyroidism, avoid excessive iodine intake, manage stress, and take prescribed medication as per your doctor’s advice.",
+    "thyroid level normal": "Your thyroid hormone levels are within the normal range.",
+    "thyroid level hypothyroid": "Your thyroid hormone levels indicate hypothyroidism. It's recommended to consult a doctor.",
+    "thyroid level hyperthyroid": "Your thyroid hormone levels suggest hyperthyroidism. A medical consultation is advised.",
+    "fallback": "I'm sorry, I didn't understand that. Can you please rephrase your question?",
+    "bye": "Goodbye! Stay healthy and take care!"
+  }
+}
+
